@@ -1,7 +1,7 @@
 # URL Shortener
 Afficheur de texte fait en PHP pour le fun, <a href="http://mytxt.tk">démo ici</a>
 
-<img src="https://i.imgur.com/ZNyOHOu.png">
+<img src="https://i.imgur.com/2XEGAR2.png">
 
 # Mise en ligne du site
 Vous pouvez mettre en ligne le site sur votre hébergeur favori ou votre serveur si PHP est installé (pas besoin de base de données)
