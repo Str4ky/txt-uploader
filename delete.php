@@ -29,7 +29,7 @@ unlink($file);
 //Suppression du dossier de la redirection
 rmdir($folder);
 //Déclaration d'une variable de session en tant que message d'alerte
-$_SESSION['message_delete'] = 'Redirection supprimée avec succès';
+$_SESSION['message_delete'] = 'Texte supprimé avec succès';
 ?>
             
 <script>
