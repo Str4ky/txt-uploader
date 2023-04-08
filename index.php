@@ -39,7 +39,7 @@ session_start();
             <form method="post" action="create.php">
                 <h3>Titre du document :</h3>
                     <!-- Zone d'entrée de texte pour le titre du document -->
-                    <input type="text" name="title" id="title" placeholder="Entrez une URL personnalisée" class="text" required/>
+                    <input type="text" name="title" id="title" placeholder="Entrez le titre du document" class="text" required/>
                 <h3>Texte à coller :</h3>
                     <!-- Zone d'entrée de texte pour le texte à coller -->
                     <textarea name="text" id="text" placeholder="Entrez votre texte à coller" class="text" required></textarea>
