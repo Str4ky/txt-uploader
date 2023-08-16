@@ -1,5 +1,5 @@
 # Txt Uploader
-Afficheur de texte fait en PHP pour le fun, <a href="http://mytxt.tk">démo ici</a>
+Afficheur de texte fait en PHP pour le fun
 
 <img src="https://i.imgur.com/2XEGAR2.png">
 
